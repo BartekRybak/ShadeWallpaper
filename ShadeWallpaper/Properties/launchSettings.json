@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShadeWallpaper": {
+      "commandName": "Project",
+      "commandLineArgs": "8bit"
+    }
+  }
+}
